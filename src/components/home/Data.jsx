@@ -55,7 +55,7 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-      <h3 className="home__subtitle">Software Developer</h3>
+      <h3 className="home__subtitle">Data Scientist</h3>
       <p className="home__description">
         Data scientist with experience in building data intensive applications.
         Proficient in predictive modeling,data processing and data mining

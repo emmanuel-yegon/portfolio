@@ -1,4 +1,4 @@
-import Reac, { useRef} from 'react';
+import React, { useRef} from 'react';
 import "./contact.css";
 import emailjs from '@emailjs/browser';  
 
@@ -79,12 +79,12 @@ const Contact = () => {
             onSubmit={sendEmail}
           >
             <div className="contact__form-div">
-              <label className="contact__form-tag">Mail</label>
+              <label className="contact__form-tag">Name</label>
               <input
-                type="email"
+                type="text"
                 name="name"
                 className="contact__form-input"
-                placeholder="Insert your email"
+                placeholder="Enter your name"
               />
             </div>
             <div className="contact__form-div">

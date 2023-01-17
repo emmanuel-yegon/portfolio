@@ -16,9 +16,9 @@ const Services = () => {
       <div className="services__container container grid">
         <div className="services__content">
           <div>
-            <i className="uil uil-web-grid services__icon"></i>
+            <i className="uil uil-robot services__icon"></i>
             <h3 className="services__title">
-              Product <br /> Designer
+              Machine <br /> Learning
             </h3>
           </div>
 
@@ -43,7 +43,9 @@ const Services = () => {
                 className="uil uil-times
                         services__modal-close"
               ></i>
-              <h3 className="services__modal-title">Product Designer</h3>
+              <h3 className="services__modal-title">
+                Machine Learning Engineer
+              </h3>
 
               <p className="services__modal-description">
                 Service with more than 4 years of experience. Providing quality
@@ -57,7 +59,8 @@ const Services = () => {
                                  services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    I develop the user interface.
+                    Data mining or extracting usable data from valuable data
+                    sources.
                   </p>
                 </li>
 
@@ -66,7 +69,10 @@ const Services = () => {
                     className="uil uil-check-circle
                     services__modal-icon"
                   ></i>
-                  <p className="services__modal-info">Web page development.</p>
+                  <p className="services__modal-info">
+                    Analyzing large amounts of information to find patterns and
+                    solutions.
+                  </p>
                 </li>
 
                 <li className="services__modal-services">
@@ -75,7 +81,17 @@ const Services = () => {
                    services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    I create ux element interactions.
+                    Developing prediction systems and machine learning
+                    algorithms.
+                  </p>
+                </li>
+                <li className="services__modal-services">
+                  <i
+                    className="uil uil-check-circle
+   services__modal-icon"
+                  ></i>
+                  <p className="services__modal-info">
+                    Deploying both deep learning and machine learning algorithms.
                   </p>
                 </li>
               </ul>
@@ -87,7 +103,7 @@ const Services = () => {
           <div>
             <i className="uil uil-arrow services__icon"></i>
             <h3 className="services__title">
-              Ui/Ux <br /> Designer
+              Data <br /> Analysis
             </h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(2)}>
@@ -110,7 +126,7 @@ const Services = () => {
                 className="uil uil-times
                 services__modal-close"
               ></i>
-              <h3 className="services__modal-title">Ui/Ux Designer </h3>
+              <h3 className="services__modal-title">Data Analyst</h3>
               <p className="services__modal-description">
                 Service with more than 4 years of experience. Providing quality
                 work to clients and companies.
@@ -122,15 +138,26 @@ const Services = () => {
                          services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    I develop the user interface.
+                    I develop power bi and tableau dashboards and reports.
                   </p>
                 </li>
                 <li className="services__modal-services">
                   <i
                     className="uil uil-check-circle
-            services__modal-icon"
+                      services__modal-icon"
                   ></i>
-                  <p className="services__modal-info">Web page development.</p>
+                  <p className="services__modal-info">
+                    Creating visualisations of data.
+                  </p>
+                </li>
+                <li className="services__modal-services">
+                  <i
+                    className="uil uil-check-circle
+      services__modal-icon"
+                  ></i>
+                  <p className="services__modal-info">
+                    Organising data in to usable formats.
+                  </p>
                 </li>
                 <li className="services__modal-services">
                   <i
@@ -138,7 +165,7 @@ const Services = () => {
            services__modal-icon"
                   ></i>
                   <p className="services__modal-info">
-                    I create ux element interactions.
+                    Analysing data to find answers to specific questions.
                   </p>
                 </li>
               </ul>
@@ -150,7 +177,7 @@ const Services = () => {
           <div>
             <i className="uil uil-edit services__icon"></i>
             <h3 className="services__title">
-              Visual <br /> Designer
+              Web <br /> Development
             </h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(3)}>
@@ -173,7 +200,7 @@ const Services = () => {
                 className="uil uil-times
         services__modal-close"
               ></i>
-              <h3 className="services__modal-title">Visual Designer</h3>
+              <h3 className="services__modal-title">Web Developer</h3>
               <p className="services__modal-description">
                 Service with more than 4 years of experience. Providing quality
                 work to clients and companies.

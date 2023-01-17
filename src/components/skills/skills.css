@@ -1,6 +1,6 @@
 .skills__container {
-    grid-template-columns: repeat(2, 350px);
-    column-gap: 3rem;
+    grid-template-columns: repeat(3, 350px);
+    column-gap: 2rem;
     justify-content: center;
 }
 
@@ -18,10 +18,10 @@
     margin-bottom: var(--mb-1-5);
 }
 
-.skills__box  {
+.skills__box {
     display: flex;
     justify-content: center;
-    column-gap: 2.5rem;
+    column-gap: 1.3rem;
 }
 
 .skills__group {

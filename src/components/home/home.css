@@ -46,7 +46,7 @@
 .home__subtitle::before{
     content: '';
     position: absolute;
-    width: 70px;
+    width: 60px;
     height: 1px;
     background-color: var(--text-color);
     left: 0;

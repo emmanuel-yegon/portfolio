@@ -8,20 +8,20 @@ export const Data = [
     image: Image1,
     title: "John Maguire",
     description:
-      " A really good job, all aspects of the project were followed step by step and with good results.",
+      "We thank Emmanuel Yegon for the wonderful job  done in helping us develop our program. He was professional, excellent and hard working.",
   },
   {
     id: 2,
     image: Image2,
     title: "Harry Clinton",
     description:
-      " A really good job, all aspects of the project were followed step by step and with good results.",
+      " I wanted to take a moment to thank Yegon for the services  he provides. He has been a pleasure to work with, professional and timely..",
   },
   {
     id: 3,
     image: Image3,
     title: "Sara Cli",
     description:
-      " A really good job, all aspects of the project were followed step by step and with good results.",
+      "We are very happy with Emmanuel Yegon; very serious and consistent in his work.He has  always been there for any tasks assigned.",
   },
 ];

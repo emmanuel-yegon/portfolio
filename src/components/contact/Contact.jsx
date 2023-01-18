@@ -70,7 +70,7 @@ const Contact = () => {
         </div>
 
         <div className="contact__content">
-          <h3 className="contact__title">Write me you project</h3>
+          <h3 className="contact__title"></h3>
 
           <form
             action=""
@@ -93,17 +93,17 @@ const Contact = () => {
                 type="email"
                 name="name"
                 className="contact__form-input"
-                placeholder="Insert your email"
+                placeholder="Enter your message"
               />
             </div>
             <div className="contact__form-div contact__form-area">
-              <label className="contact__form-tag">Project</label>
+              <label className="contact__form-tag">Message</label>
               <textarea
                 name="project"
                 cols="30"
                 rows="10"
                 className="contact__form-input"
-                placeholder="Write your project"
+                placeholder="Enter your message"
               ></textarea>
             </div>
 

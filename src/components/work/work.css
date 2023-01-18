@@ -34,8 +34,8 @@
 }
 
 .work__img {
-    width: 295px;
-    height: 200px;
+    width: 275px;
+    height: 180px;
     border-radius: 1rem;
 } 
 
@@ -51,6 +51,7 @@
     display: flex;
     align-items: center;
     column-gap: 0.25rem;
+    margin-left: auto;
 }
 
 .work__button-icon {

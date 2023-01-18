@@ -1,15 +1,9 @@
-import Work1 from "../../assets/work1.jpg";
-import Work2 from "../../assets/work2.jpg";
-import Work3 from "../../assets/work3.jpg";
-import Work4 from "../../assets/work4.jpg";
-import Work5 from "../../assets/work5.jpg";
 import House from "../../assets/house_price.jpg";
 import Sentiment from "../../assets/Sentiment.jpg";
-import PowerBi from "../../assets/power_bi.jpg";
 import Loan from "../../assets/Loan-Guidelines.jpg";
-import DataReport from "../../assets/data_reporting.jpg"
 import MacbookBi from "../../assets/macbook-bi.jpg";
 import TabDesign from "../../assets/tab_design_3.jpg";
+import Home from "../../assets/home.jpg";
 
 export const projectsData = [
   {
@@ -17,24 +11,28 @@ export const projectsData = [
     image: Sentiment,
     title: "Sentiment Analysis on Movie Review",
     category: "Data Science",
+    url: "https://github.com/emmanuel-yegon/movie_sentiment",
   },
   {
     id: 2,
     image: Loan,
     title: "Loan Eligibility Prediction ",
     category: "Data Science",
+    url: "https://github.com/emmanuel-yegon/loan_legibility",
   },
   {
     id: 3,
     image: House,
     title: "Home Price Prediction",
     category: "Data Science",
+    url: "https://github.com/emmanuel-yegon/house_price_prediction_model",
   },
   {
     id: 4,
     image: MacbookBi,
     title: "Power BI Dashboard",
     category: "Data Analysis",
+    url: "https://github.com/emmanuel-yegon/powerbi_dashboards",
   },
   {
     id: 5,
@@ -44,8 +42,8 @@ export const projectsData = [
   },
   {
     id: 6,
-    image: Work3,
-    title: "Movie Reviews Prediction",
+    image: Home,
+    title: "Movie Reviews Prediction UI",
     category: "Web design",
   },
 ];

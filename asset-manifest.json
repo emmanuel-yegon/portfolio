@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.c386112c.css",
-    "main.js": "/portfolio/static/js/main.b20024e1.js",
+    "main.css": "/portfolio/static/css/main.ceb680e7.css",
+    "main.js": "/portfolio/static/js/main.e3942aa1.js",
     "static/media/profile4.jpg": "/portfolio/static/media/profile4.d41369cdaca9091922d1.jpg",
     "static/media/tab_design_3.jpg": "/portfolio/static/media/tab_design_3.8a417726d7a9fb276524.jpg",
     "static/media/house_price.jpg": "/portfolio/static/media/house_price.f410fc83b04144414f27.jpg",
@@ -14,11 +14,11 @@
     "static/media/testimonial2.png": "/portfolio/static/media/testimonial2.39a53f7f092f07f5bceb.png",
     "static/media/testimonial1.png": "/portfolio/static/media/testimonial1.89079c1d25f2c94ceb89.png",
     "index.html": "/portfolio/index.html",
-    "main.c386112c.css.map": "/portfolio/static/css/main.c386112c.css.map",
-    "main.b20024e1.js.map": "/portfolio/static/js/main.b20024e1.js.map"
+    "main.ceb680e7.css.map": "/portfolio/static/css/main.ceb680e7.css.map",
+    "main.e3942aa1.js.map": "/portfolio/static/js/main.e3942aa1.js.map"
   },
   "entrypoints": [
-    "static/css/main.c386112c.css",
-    "static/js/main.b20024e1.js"
+    "static/css/main.ceb680e7.css",
+    "static/js/main.e3942aa1.js"
   ]
 }
